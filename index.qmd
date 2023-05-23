@@ -1,11 +1,38 @@
 ---
 title: "Garrett J. Knowlton"
+image: headshot.jpg
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 23em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/garrett-knowlton/
+    - text: Twitter
+      href: https://twitter.com/g_j_knowlton
+    - text: GitHub
+      href: https://github.com/gjknowlton
+    - text: Email
+      href: mailto:gjknowlton@wisc.edu
+ 
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+::: {#hero-heading}
+I am a graduate student at the University of Wisconsin-Madison in the Department of Integrative Biology. I am broadly interested in landscape ecology, ecological modeling, data science, and climate change science and adaptation. 
+
+## Education
+
+University of Wisconsin-Madison \| Madison, WI \| MS in Integrative Biology (Ecology) \| August 2022 - Present
+
+Michigan State University \| East Lansing, MI  \| B.S in Fisheries & Wildlife Biology \| Aug 2015 - May 2020
+
+## Experience
+
+Landscape and Ecosystem Ecology Lab (Advised by Dr. Monica Turner) \| NSF Graduate Research Fellow \| August 2022 - present
+
+U.S. National Park Service, Climate Change Response Program \| Research Assistant \| August 2021 - September 2022
+
+NASA DEVELOP \| Research Assistant \| Jan 2021 - May 2021
+:::

@@ -2,8 +2,4 @@
 title: "About"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+My research broadly focuses on using simulation models to understand how subalpine forests will change in the northern Rocky Mountains, USA in response to changing climate and fire regimes.
