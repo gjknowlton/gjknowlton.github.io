@@ -1,0 +1,7 @@
+---
+
+title: "About me"
+
+---
+
+My research broadly focuses on using simulation models and machine learning to understand how subalpine forests might change in the northern Rocky Mountains, USA in response to changing climate and fire regimes.
