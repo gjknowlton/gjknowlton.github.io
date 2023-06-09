@@ -14,19 +14,16 @@ about:
       href: https://github.com/gjknowlton
     - text: Email
       href: mailto:gjknowlton@wisc.edu
- 
 ---
 
-
-
 ::: {#hero-heading}
-I am a graduate student at the University of Wisconsin-Madison in the Department of Integrative Biology. I am broadly interested in landscape ecology, ecological modeling, data science, and climate change science and adaptation. 
+I am a graduate student at the University of Wisconsin-Madison in the Department of Integrative Biology. I am broadly interested in landscape ecology, ecological modeling, data science, and climate change science and adaptation.
 
 ## Education
 
 University of Wisconsin-Madison \| Madison, WI \| MS in Integrative Biology (Ecology) \| August 2022 - Present
 
-Michigan State University \| East Lansing, MI  \| B.S in Fisheries & Wildlife Biology \| Aug 2015 - May 2020
+Michigan State University \| East Lansing, MI \| B.S in Fisheries & Wildlife Biology \| Aug 2015 - May 2020
 
 ## Experience
 
