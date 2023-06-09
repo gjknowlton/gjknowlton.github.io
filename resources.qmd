@@ -1,12 +1,12 @@
 ---
-title: "Ecology & Env. Science Resources List
+title: "Ecology & Env. Science Resources List"
 ---
 
 #### ***Statistics:***
 
 #### ***Programming:***
 
-#### ***Data visualization:*** 
+#### ***Data visualization:***
 
 #### ***Modelling:***
 
@@ -18,6 +18,6 @@ title: "Ecology & Env. Science Resources List
 
 #### ***Job Websites:***
 
-#### ***Career Advice:*** 
+#### ***Career Advice:***
 
 -   [usa jobs guide for biologists and ecologists](https://jabberwocky.weecology.org/2021/06/14/usajobs-guide/)
