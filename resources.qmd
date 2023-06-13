@@ -14,6 +14,15 @@ title: "Ecology & Env. Science Resources List"
 
 #### ***Spatial / GIS / Remote Sensing:***
 
+-   [coding club gee](https://ourcodingclub.github.io/tutorials/earth-engine/)
+-   [coding club r geospatial](https://ourcodingclub.github.io/tutorials/spatial-vector-sf/)
+-   [rGEE examples (250+)](https://csaybar.github.io/rgee-examples/)
+-   [rGEE](https://r-spatial.github.io/rgee/)
+-   [spatial data science with R and ‘terra’](https://rspatial.org)
+-   [geocomputation w/ R](https://r.geocompx.org/intro.html)
+-   [intro to spatial R](https://oliviergimenez.github.io/intro_spatialR/)
+-   []()
+	
 #### ***Climate Resources:***
 
 #### ***Job Websites:***
@@ -21,3 +30,8 @@ title: "Ecology & Env. Science Resources List"
 #### ***Career Advice:***
 
 -   [usa jobs guide for biologists and ecologists](https://jabberwocky.weecology.org/2021/06/14/usajobs-guide/)
+
+
+
+
+

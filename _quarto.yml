@@ -12,6 +12,7 @@ website:
         text: About me
       - href: resources.qmd
         text: Resources
+
         
 
 format:
