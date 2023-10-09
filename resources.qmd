@@ -2,7 +2,7 @@
 title: "Ecology & Env. Science Resources List"
 ---
 
-<iframe id="example1" src="https://nathankiel.shinyapps.io/BOT460_F2023_NModule/" style="border: none; width: 100%; height: 720px" frameborder="0"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vT2pt1iJeOB-Dq3ZZTrSK9HqhNeFDm1aS9SM3414lqQsKe9OHa7ZQeWJKv_lI2zCGr1PLoZLwPp7Z2D/pub?embedded=true"></iframe>
 
 
 #### ***Statistics:***
