@@ -2,6 +2,4 @@
 title: "Publications"
 ---
 
-Chronic Wasting Disease paper
-
-Regeneration paper
+Feltman, B., Warwick, A.R., **Knowlton, G.**, Pomeranz, E., Zwickle, A., Burmann, L., Burroughs, J., Schweihofer, J., Conklin, T., Montri, D. and Isenhoff, D., 2024. Wild game processors’ perceptions of chronic wasting disease risks in Michigan. *Human Dimensions of Wildlife*, *29*(5), pp.513-521.

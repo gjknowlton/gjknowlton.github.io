@@ -16,3 +16,17 @@ about:
 ---
 
 Hi, my name is Garrett Knowlton. I am a graduate student at the University of Wisconsin-Madison in the [Ecosystem and Landscape Ecology Lab](https://turnerlab.ibio.wisc.edu/). My research interests include landscape ecology, forest ecosystems, disturbances (especially fire), simulation modeling, and climate change adaptation.
+
+### Education
+
+University of Wisconsin - Madison, Madison, Wisconsin, USA PhD in Integrative Biology \| 2024 - Present
+
+University of Wisconsin - Madison, Madison, Wisconsin, USA MS in Integrative Biology \| 2022 - 2024
+
+Michigan State University, East Lansing, Michigan, USA B.S. in Fisheries and Wildlife Biology \| 2015-2020
+
+### Experience
+
+National Park Service, Climate Change Response Program \| Research Assistant \| 2021-2022
+
+NASA DEVELOP \| Remote Sensing Intern \| 2021
