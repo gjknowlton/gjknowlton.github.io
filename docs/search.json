@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "gjknowlton.github.io",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Chronic Wasting Disease paper\nRegeneration paper"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Garrett J. Knowlton",
+    "section": "",
+    "text": "Hi, my name is Garrett Knowlton. I am a graduate student at the University of Wisconsin-Madison in the Ecosystem and Landscape Ecology Lab. My research interests include landscape ecology, forest ecosystems, disturbances (especially fire), simulation modeling, and climate change adaptation."
   }
 ]

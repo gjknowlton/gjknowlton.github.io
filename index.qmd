@@ -1,11 +1,18 @@
 ---
-title: "gjknowlton.github.io"
+#title: "Garrett Knowlton"
+image: media/headshot.png
+toc: false
+about:
+  template: trestles
+  image-shape: rounded
+  image-width: 17em
+  links: 
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/garrettknowlton/
+    - text: GitHub
+      href: https://github.com/gjknowlton
+    - text: Email
+      href: mailto:gjknowlton@wisc.edu
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Hi, my name is Garrett Knowlton. I am a graduate student at the University of Wisconsin-Madison in the [Ecosystem and Landscape Ecology Lab](https://turnerlab.ibio.wisc.edu/). My research interests include landscape ecology, forest ecosystems, disturbances (especially fire), simulation modeling, and climate change adaptation.
