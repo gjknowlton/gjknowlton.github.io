@@ -2,4 +2,6 @@
 title: "Publications"
 ---
 
+**Knowlton, G.J.**, T. Keller, R. Seidl, M. Turner. Postfire tree regeenration suggests reorganization of Greater Yellowstone subalpine forests during the 21st century. *In review.*
+
 Feltman, B., Warwick, A.R., **Knowlton, G.**, Pomeranz, E., Zwickle, A., Burmann, L., Burroughs, J., Schweihofer, J., Conklin, T., Montri, D. and Isenhoff, D., 2024. Wild game processors’ perceptions of chronic wasting disease risks in Michigan. *Human Dimensions of Wildlife*, *29*(5), pp.513-521. [***Download PDF***](./media/papers/cwd_risk.pdf)
